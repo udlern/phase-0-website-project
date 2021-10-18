@@ -1,7 +1,47 @@
 body {
     background: lightblue;
-    text-align: center;
+}
+
+h1 {
+    color:lightcoral;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    font-style: italic;
-    color: lightcoral;
+    text-align: center;
+    font-size: xx-large;
+
+}
+
+nav {
+    text-align: center;
+    padding-top: 30px;
+}
+
+body nav a {
+    color: lightgoldenrodyellow;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    display: inline;
+    padding-right: 100px;
+    padding-left: 100px;
+    font-size: x-large;
+}
+
+body p#aboutmecontent {
+    color: lightgoldenrodyellow;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+}
+
+body img#picturescontentpicture1 {
+    height: 150px;
+}
+
+body div#contactcontent ul > li {
+    color: lightgoldenrodyellow;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+}
+
+body p#experiencecontent {
+    color: lightgoldenrodyellow;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
 }
