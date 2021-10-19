@@ -24,21 +24,70 @@ body nav a {
     font-size: x-large;
 }
 
-body p#aboutmecontent {
+/* About Me section */
+
+h1 {
+    color: lightcoral
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+    font-size: 50px
+}
+
+body p.aboutmecontent {
+    color: lightgoldenrodyellow;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: left;
+    font-size: 40px;
+}
+
+img#clickherepicfirstquestion, img#clickherepicsecondquestion  {
+    height: 70px;
+    padding-left: 50px;
+    padding-top: 10px;
+}
+
+/* Pictures section */
+
+h1#picturesheading {
+    color: lightcoral
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+    font-size: 50px  
+}
+
+p#picturescontent {
     color: lightgoldenrodyellow;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     text-align: center;
+    font-size: 30px; 
 }
 
 body img#picturescontentpicture1 {
-    height: 150px;
+    height: 300px;
 }
+
+/* Contact section */
 
 body div#contactcontent ul > li {
     color: lightgoldenrodyellow;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    text-align: center;
 }
+
+h1#contactheading {
+    color: lightcoral
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+    font-size: 50px  
+}
+
+/* Experience section */
+
+h1#experienceheading {
+    color: lightcoral
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+    font-size: 50px  
+} 
 
 body p#experiencecontent {
     color: lightgoldenrodyellow;
