@@ -13,10 +13,10 @@ h1#home-page-heading {
 
 h2#home-page-second-heading {
   color: rgb(113, 132, 151);
-  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
   text-align: center;
   font-size: 25px;
-  font-weight: bolder;
+  font-weight: bold;
 }
 
 nav {
@@ -75,6 +75,7 @@ body p.about-me-content {
   font-family: 'Times New Roman', Times, serif;
   text-align: left;
   font-size: 30px;
+  padding-top: 10px;
 }
 
 img#click-here-pic-first-question,
@@ -85,11 +86,12 @@ img#click-here-pic-second-question, img#click-here-pic-third-question {
 }
 
 img#hobbies-about-me {
-  height: 250px;
+  height: 300px;
   float: right;
   clear: both;
   padding-right: 100px;
   padding-top: 100px;
+  display: inline;
 }
 
 img#flower-decoration-one-about-me {
@@ -136,9 +138,10 @@ p#pictures-content {
   font-size: 30px;
 }
 
-body img#pictures-content-first-picture, img#pictures-content-second-picture, img#pictures-content-third-picture, img#pictures-content-fourth-picture, img#pictures-content-fifth-picture, img#pictures-content-sixth-picture, img#pictures-content-seventh-picture {
-  height: 300px;
-  padding-left: 20px;
+body img#pictures-content-first-picture, img#pictures-content-second-picture, img#pictures-content-third-picture, img#pictures-content-fourth-picture, img#pictures-content-fifth-picture, img#pictures-content-sixth-picture, img#pictures-content-seventh-picture, img#pictures-content-eighth-picture, img#pictures-content-ninth-picture, img#pictures-content-tenth-picture {
+  height: 250px;
+  padding-left: 10px;
+  padding-top: 10px;
 }
 
 img#flower-decoration-one-pictures {
