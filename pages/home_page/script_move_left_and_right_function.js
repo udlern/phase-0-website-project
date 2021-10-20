@@ -1,18 +1,18 @@
 /* Personal Image Moving Left Function */
 
-const personalimage = document.getElementById("personalimage");
+const personalImage = document.getElementById("personal-image");
 
-personalimage.style.height = "250px";
-personalimage.style.left = "1200px";
-personalimage.style.paddingTop = "100px";
+personalImage.style.height = "250px";
+personalImage.style.left = "1200px";
+personalImage.style.paddingTop = "100px";
 
 function movePersonalImageLeft() {
   console.log("hello");
-  const leftNumbers = personalimage.style.left.replace("px", "");
+  const leftNumbers = personalImage.style.left.replace("px", "");
   const left = parseInt(leftNumbers, 10);
 
   if (left > 450) {
-    personalimage.style.left = `${left - 30}px`;
+    personalImage.style.left = `${left - 30}px`;
   }
 }
 
@@ -25,11 +25,11 @@ document.addEventListener("keydown", function (e) {
 /* Personal Image Moving Right Function */
 
 function movePersonalImageRight() {
-  const leftNumbers = personalimage.style.left.replace("px", "");
+  const leftNumbers = personalImage.style.left.replace("px", "");
   const left = parseInt(leftNumbers, 10);
 
   if (left < 1200) {
-    personalimage.style.left = `${left + 30}px`;
+    personalImage.style.left = `${left + 30}px`;
   }
 }
 

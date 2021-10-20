@@ -38,6 +38,7 @@ img#flower-decoration-one-home-page {
   right: 0px;
   top: 0px;
   height: 50px;
+  border: 1px solid black;
 }
 
 img#flower-decoration-two-home-page {
@@ -45,6 +46,7 @@ img#flower-decoration-two-home-page {
   left: 0px;
   top: 0px;
   height: 50px;
+  border: 1px solid black;
 }
 
 img#flower-decoration-three-home-page {
@@ -52,6 +54,7 @@ img#flower-decoration-three-home-page {
   right: 0px;
   bottom: 0px;
   height: 50px;
+  border: 1px solid black;
 }
 
 img#flower-decoration-four-home-page {
@@ -59,6 +62,7 @@ img#flower-decoration-four-home-page {
   left: 0px;
   bottom: 0px;
   height: 50px;
+  border: 1px solid black;
 }
 
 /* About Me section */
@@ -99,6 +103,7 @@ img#flower-decoration-one-about-me {
   right: 0px;
   top: 0px;
   height: 50px;
+  border: 1px solid black;
 }
 
 img#flower-decoration-two-about-me {
@@ -106,6 +111,7 @@ img#flower-decoration-two-about-me {
   left: 0px;
   top: 0px;
   height: 50px;
+  border: 1px solid black;
 }
 
 img#flower-decoration-three-about-me {
@@ -113,6 +119,7 @@ img#flower-decoration-three-about-me {
   right: 0px;
   bottom: 0px;
   height: 50px;
+  border: 1px solid black;
 }
 
 img#flower-decoration-four-about-me {
@@ -120,6 +127,7 @@ img#flower-decoration-four-about-me {
   left: 0px;
   bottom: 0px;
   height: 50px;
+  border: 1px solid black;
 }
 
 /* Pictures section */
@@ -140,8 +148,7 @@ p#pictures-content {
 
 body img#pictures-content-first-picture, img#pictures-content-second-picture, img#pictures-content-third-picture, img#pictures-content-fourth-picture, img#pictures-content-fifth-picture, img#pictures-content-sixth-picture, img#pictures-content-seventh-picture, img#pictures-content-eighth-picture, img#pictures-content-ninth-picture, img#pictures-content-tenth-picture {
   height: 250px;
-  padding-left: 10px;
-  padding-top: 10px;
+  border: 2px solid black;
 }
 
 img#flower-decoration-one-pictures {
@@ -149,6 +156,7 @@ img#flower-decoration-one-pictures {
   right: 0px;
   top: 0px;
   height: 50px;
+  border: 1px solid black;
 }
 
 img#flower-decoration-two-pictures {
@@ -156,6 +164,7 @@ img#flower-decoration-two-pictures {
   left: 0px;
   top: 0px;
   height: 50px;
+  border: 1px solid black;
 }
 
 img#flower-decoration-three-pictures {
@@ -163,6 +172,7 @@ img#flower-decoration-three-pictures {
   right: 0px;
   bottom: 0px;
   height: 50px;
+  border: 1px solid black;
 }
 
 img#flower-decoration-four-pictures {
@@ -170,6 +180,7 @@ img#flower-decoration-four-pictures {
   left: 0px;
   bottom: 0px;
   height: 50px;
+  border: 1px solid black;
 }
 
 /* Contact section */
@@ -200,6 +211,7 @@ img#flower-decoration-one-contact {
   right: 0px;
   top: 0px;
   height: 50px;
+  border: 1px solid black;
 }
 
 img#flower-decoration-two-contact {
@@ -207,6 +219,7 @@ img#flower-decoration-two-contact {
   left: 0px;
   top: 0px;
   height: 50px;
+  border: 1px solid black;
 }
 
 img#flower-decoration-three-contact {
@@ -214,6 +227,7 @@ img#flower-decoration-three-contact {
   right: 0px;
   bottom: 0px;
   height: 50px;
+  border: 1px solid black;
 }
 
 img#flower-decoration-four-contact {
@@ -221,9 +235,10 @@ img#flower-decoration-four-contact {
   left: 0px;
   bottom: 0px;
   height: 50px;
+  border: 1px solid black;
 }
 
-img#personalimage {
+img#personal-image {
   position: absolute;
   display: block;
 }
@@ -268,6 +283,7 @@ img#flower-decoration-one-experience {
   right: 0px;
   top: 0px;
   height: 50px;
+  border: 1px solid black;
 }
 
 img#flower-decoration-two-experience {
@@ -275,6 +291,7 @@ img#flower-decoration-two-experience {
   left: 0px;
   top: 0px;
   height: 50px;
+  border: 1px solid black;
 }
 
 img#flower-decoration-three-experience {
@@ -282,6 +299,7 @@ img#flower-decoration-three-experience {
   right: 0px;
   bottom: 0px;
   height: 50px;
+  border: 1px solid black;
 }
 
 img#flower-decoration-four-experience {
@@ -289,4 +307,5 @@ img#flower-decoration-four-experience {
   left: 0px;
   bottom: 0px;
   height: 50px;
+  border: 1px solid black;
 }
