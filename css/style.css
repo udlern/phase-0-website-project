@@ -1,0 +1,289 @@
+/* Home Page Section */
+
+body {
+  background: lightblue;
+}
+
+h1#home-page-heading {
+  color: rgb(179, 114, 114);
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  text-align: center;
+  font-size: 50px;
+}
+
+h2#home-page-second-heading {
+  color: rgb(113, 132, 151);
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  text-align: center;
+  font-size: 25px;
+  font-weight: bolder;
+}
+
+nav {
+  text-align: center;
+  padding-top: 30px;
+}
+
+body nav a {
+  color: lightslategray;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  display: inline;
+  padding-right: 100px;
+  padding-left: 100px;
+  font-size: x-large;
+}
+
+img#flower-decoration-one-home-page {
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  height: 50px;
+}
+
+img#flower-decoration-two-home-page {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  height: 50px;
+}
+
+img#flower-decoration-three-home-page {
+  position: absolute;
+  right: 0px;
+  bottom: 0px;
+  height: 50px;
+}
+
+img#flower-decoration-four-home-page {
+  position: absolute;
+  left: 0px;
+  bottom: 0px;
+  height: 50px;
+}
+
+/* About Me section */
+
+h1#about-me-heading {
+  color: rgb(179, 114, 114);
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  text-align: center;
+  font-size: 50px;
+}
+
+body p.about-me-content {
+  color: lightslategrey;
+  font-family: 'Times New Roman', Times, serif;
+  text-align: left;
+  font-size: 30px;
+}
+
+img#click-here-pic-first-question,
+img#click-here-pic-second-question, img#click-here-pic-third-question {
+  height: 70px;
+  padding-left: 50px;
+  padding-top: 10px;
+}
+
+img#hobbies-about-me {
+  height: 250px;
+  float: right;
+  clear: both;
+  padding-right: 100px;
+  padding-top: 100px;
+}
+
+img#flower-decoration-one-about-me {
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  height: 50px;
+}
+
+img#flower-decoration-two-about-me {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  height: 50px;
+}
+
+img#flower-decoration-three-about-me {
+  position: absolute;
+  right: 0px;
+  bottom: 0px;
+  height: 50px;
+}
+
+img#flower-decoration-four-about-me {
+  position: absolute;
+  left: 0px;
+  bottom: 0px;
+  height: 50px;
+}
+
+/* Pictures section */
+
+h1#pictures-heading {
+  color: rgb(179, 114, 114);
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  text-align: center;
+  font-size: 50px;
+}
+
+p#pictures-content {
+  color: lightslategrey;
+  font-family: 'Times New Roman', Times, serif;
+  text-align: center;
+  font-size: 30px;
+}
+
+body img#pictures-content-first-picture, img#pictures-content-second-picture, img#pictures-content-third-picture, img#pictures-content-fourth-picture, img#pictures-content-fifth-picture, img#pictures-content-sixth-picture, img#pictures-content-seventh-picture {
+  height: 300px;
+  padding-left: 20px;
+}
+
+img#flower-decoration-one-pictures {
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  height: 50px;
+}
+
+img#flower-decoration-two-pictures {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  height: 50px;
+}
+
+img#flower-decoration-three-pictures {
+  position: absolute;
+  right: 0px;
+  bottom: 0px;
+  height: 50px;
+}
+
+img#flower-decoration-four-pictures {
+  position: absolute;
+  left: 0px;
+  bottom: 0px;
+  height: 50px;
+}
+
+/* Contact section */
+
+table#table-contact-content {
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+body table#table-contact-content, td, th {
+  color: lightslategrey;
+  font-family: 'Times New Roman', Times, serif;
+  border: 2px solid black;
+  font-weight: bold;
+}
+
+h1#contact-heading {
+  color:rgb(179, 114, 114);
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  text-align: center;
+  font-size: 50px;
+}
+
+
+img#flower-decoration-one-contact {
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  height: 50px;
+}
+
+img#flower-decoration-two-contact {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  height: 50px;
+}
+
+img#flower-decoration-three-contact {
+  position: absolute;
+  right: 0px;
+  bottom: 0px;
+  height: 50px;
+}
+
+img#flower-decoration-four-contact {
+  position: absolute;
+  left: 0px;
+  bottom: 0px;
+  height: 50px;
+}
+
+img#personalimage {
+  position: absolute;
+  display: block;
+}
+
+img#computer-image {
+  float: left;
+  position: absolute;
+  display: block;
+  height: 250px;
+  padding-top: 100px;
+}
+
+p#contact-content-explanation {
+  color: lightslategray;
+  font-family: 'Times New Roman', Times, serif;
+  text-align: left;
+  font-size: 20px;
+  position: absolute;
+  bottom: 50px;
+  height: 50px;
+  left: 10px;
+  font-weight: bolder;
+}
+
+/* Experience section */
+
+h1#experience-heading {
+  color: rgb(179, 114, 114);
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  text-align: center;
+  font-size: 50px;
+}
+
+body p#experience-content {
+  color: lightslategrey;
+  font-family: 'Times New Roman', Times, serif;
+  text-align: center;
+}
+
+img#flower-decoration-one-experience {
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  height: 50px;
+}
+
+img#flower-decoration-two-experience {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  height: 50px;
+}
+
+img#flower-decoration-three-experience {
+  position: absolute;
+  right: 0px;
+  bottom: 0px;
+  height: 50px;
+}
+
+img#flower-decoration-four-experience {
+  position: absolute;
+  left: 0px;
+  bottom: 0px;
+  height: 50px;
+}
