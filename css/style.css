@@ -24,7 +24,7 @@ nav {
   padding-top: 30px;
 }
 
-body nav a {
+nav a {
   color: lightslategray;
   font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
   display: inline;
@@ -79,7 +79,7 @@ h1#about-me-heading {
   font-size: 50px;
 }
 
-body p.about-me-content {
+p.about-me-content {
   color: lightslategrey;
   font-family: 'Times New Roman', Times, serif;
   text-align: left;
@@ -151,7 +151,7 @@ p#pictures-content {
   font-size: 30px;
 }
 
-body img#pictures-content-first-picture, img#pictures-content-second-picture, img#pictures-content-third-picture, img#pictures-content-fourth-picture, img#pictures-content-fifth-picture, img#pictures-content-sixth-picture, img#pictures-content-seventh-picture, img#pictures-content-eighth-picture, img#pictures-content-ninth-picture, img#pictures-content-tenth-picture {
+img#pictures-content-first-picture, img#pictures-content-second-picture, img#pictures-content-third-picture, img#pictures-content-fourth-picture, img#pictures-content-fifth-picture, img#pictures-content-sixth-picture, img#pictures-content-seventh-picture, img#pictures-content-eighth-picture, img#pictures-content-ninth-picture, img#pictures-content-tenth-picture {
   height: 250px;
   border: 2px solid black;
 }
@@ -196,7 +196,7 @@ table#table-contact-content {
   margin-right: auto;
 }
 
-body table#table-contact-content, td, th {
+table#table-contact-content, td, th {
   color: lightslategrey;
   font-family: 'Times New Roman', Times, serif;
   border: 2px solid black;
@@ -277,11 +277,11 @@ h1#experience-heading {
   font-size: 50px;
 }
 
-body p#experience-content {
+p#experience-content {
   color: lightslategrey;
   font-family: 'Times New Roman', Times, serif;
   text-align: center;
-  font-size: 40px;
+  font-size: 35px;
 }
 
 img#flower-decoration-one-experience {
@@ -314,4 +314,9 @@ img#flower-decoration-four-experience {
   bottom: 0px;
   height: 50px;
   border: 1px solid black;
+}
+
+img#experience-content {
+  padding-left: 300px;
+  padding-bottom: 40px;
 }
