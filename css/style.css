@@ -13,7 +13,7 @@ h1#home-page-heading {
 
 h2#home-page-second-heading {
   color: rgb(113, 132, 151);
-  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-family: fantasy;
   text-align: center;
   font-size: 25px;
   font-weight: bold;
@@ -31,6 +31,11 @@ body nav a {
   padding-right: 100px;
   padding-left: 100px;
   font-size: x-large;
+}
+
+img#home-page-graphic {
+  padding-left: 350px;
+  padding-top: 30px;
 }
 
 img#flower-decoration-one-home-page {
@@ -257,7 +262,7 @@ p#contact-content-explanation {
   text-align: left;
   font-size: 20px;
   position: absolute;
-  bottom: 50px;
+  bottom: 70px;
   height: 50px;
   left: 10px;
   font-weight: bolder;
@@ -276,6 +281,7 @@ body p#experience-content {
   color: lightslategrey;
   font-family: 'Times New Roman', Times, serif;
   text-align: center;
+  font-size: 40px;
 }
 
 img#flower-decoration-one-experience {
