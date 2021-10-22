@@ -86,12 +86,13 @@ p.about-me-content {
   text-align: left;
   font-size: 15px;
   padding-top: 10px;
+  padding-left: 270px;
 }
 
 img#click-here-pic-first-question,
 img#click-here-pic-second-question, img#click-here-pic-third-question {
   height: 60px;
-  padding-left: 50px;
+  padding-left: 270px;
   padding-top: 10px;
 }
 
@@ -99,7 +100,7 @@ img#hobbies-about-me {
   height: 230px;
   float: right;
   clear: both;
-  padding-right: 100px;
+  padding-right: 350px;
   padding-top: 100px;
   display: inline;
 }
