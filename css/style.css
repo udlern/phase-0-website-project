@@ -77,26 +77,26 @@ h1#about-me-heading {
   color: rgb(179, 114, 114);
   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
   text-align: center;
-  font-size: 50px;
+  font-size: 35px;
 }
 
 p.about-me-content {
   color: lightslategrey;
   font-family: 'Times New Roman', Times, serif;
   text-align: left;
-  font-size: 30px;
+  font-size: 15px;
   padding-top: 10px;
 }
 
 img#click-here-pic-first-question,
 img#click-here-pic-second-question, img#click-here-pic-third-question {
-  height: 70px;
+  height: 60px;
   padding-left: 50px;
   padding-top: 10px;
 }
 
 img#hobbies-about-me {
-  height: 300px;
+  height: 230px;
   float: right;
   clear: both;
   padding-right: 100px;
@@ -142,18 +142,18 @@ h1#pictures-heading {
   color: rgb(179, 114, 114);
   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
   text-align: center;
-  font-size: 50px;
+  font-size: 35px;
 }
 
 p#pictures-content {
   color: lightslategrey;
   font-family: 'Times New Roman', Times, serif;
   text-align: center;
-  font-size: 30px;
+  font-size: 15px;
 }
 
 img#pictures-content-first-picture, img#pictures-content-second-picture, img#pictures-content-third-picture, img#pictures-content-fourth-picture, img#pictures-content-fifth-picture, img#pictures-content-sixth-picture, img#pictures-content-seventh-picture, img#pictures-content-eighth-picture, img#pictures-content-ninth-picture, img#pictures-content-tenth-picture {
-  height: 250px;
+  height: 200px;
   border: 2px solid black;
 }
 
@@ -202,13 +202,14 @@ table#table-contact-content, td, th {
   font-family: 'Times New Roman', Times, serif;
   border: 2px solid black;
   font-weight: bold;
+  font-size: 15px;
 }
 
 h1#contact-heading {
   color:rgb(179, 114, 114);
   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
   text-align: center;
-  font-size: 50px;
+  font-size: 35px;
 }
 
 
@@ -250,18 +251,18 @@ img#personal-image {
 }
 
 img#computer-image {
-  float: left;
   position: absolute;
   display: block;
-  height: 250px;
-  padding-top: 100px;
+  height: 100px;
+  padding-top: 150px;
+  left: 290px;
 }
 
 p#contact-content-explanation {
   color: lightslategray;
   font-family: 'Times New Roman', Times, serif;
-  text-align: left;
-  font-size: 20px;
+  text-align: center;
+  font-size: 15px;
   position: absolute;
   bottom: 70px;
   height: 50px;
@@ -271,9 +272,9 @@ p#contact-content-explanation {
 
 img#click-here-button {
   position: absolute;
-  width: 150px;
-  left: 420px;
-  top: 400px;
+  width: 100px;
+  left: 470px;
+  top: 320px;
 }
 
 /* Experience section */
@@ -281,13 +282,6 @@ img#click-here-button {
 h1#experience-heading {
   color: rgb(179, 114, 114);
   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-  text-align: center;
-  font-size: 50px;
-}
-
-p#experience-content {
-  color: lightslategrey;
-  font-family: 'Times New Roman', Times, serif;
   text-align: center;
   font-size: 35px;
 }
@@ -378,7 +372,7 @@ div#fourth-box {
 
 div img#first-arrow {
  position: absolute;
- width: 200px;
+ width: 100px;
  left: 450px;
  top: 170px;
  border: 3px solid rgb(179, 114, 114);
@@ -386,16 +380,16 @@ div img#first-arrow {
 
 div img#second-arrow {
   position: absolute;
-  width: 200px;
+  width: 100px;
   top: 180px;
   left: 1170px;
-  transform: rotate(115deg);
+  transform: rotate(105deg);
   border: 3px solid rgb(179, 114, 114);
 }
 
 div img#third-arrow {
   position: absolute;
-  width: 200px;
+  width: 100px;
   bottom: 110px;
   transform: rotate(180deg);
   right: 650px;
