@@ -11,7 +11,7 @@ function movePersonalImageLeft() {
   const leftNumbers = personalImage.style.left.replace("px", "");
   const left = parseInt(leftNumbers, 10);
 
-  if (left > 450) {
+  if (left > 570) {
     personalImage.style.left = `${left - 30}px`;
   }
 }

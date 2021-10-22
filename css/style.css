@@ -269,6 +269,13 @@ p#contact-content-explanation {
   font-weight: bolder;
 }
 
+img#click-here-button {
+  position: absolute;
+  width: 150px;
+  left: 420px;
+  top: 400px;
+}
+
 /* Experience section */
 
 h1#experience-heading {
@@ -317,16 +324,6 @@ img#flower-decoration-four-experience {
   border: 1px solid black;
 }
 
-/* img#experience-content {
-  padding-left: 350px;
-  padding-bottom: 35px;
-  height: 600px;
-} */
-
-div {
- text-align: center;
-}
-
 div#first-box {
   border: 3px solid rgb(179, 114, 114);;
   height: 250px;
@@ -367,7 +364,7 @@ div#third-box {
 }
 
 div#fourth-box {
-  border: 3px solid rgb(179, 114, 114);;
+  border: 3px solid rgb(179, 114, 114);
   height: 250px;
   width: 250px;
   text-align: center;
@@ -384,6 +381,7 @@ div img#first-arrow {
  width: 200px;
  left: 450px;
  top: 170px;
+ border: 3px solid rgb(179, 114, 114);
 }
 
 div img#second-arrow {
@@ -392,6 +390,7 @@ div img#second-arrow {
   top: 180px;
   left: 1170px;
   transform: rotate(115deg);
+  border: 3px solid rgb(179, 114, 114);
 }
 
 div img#third-arrow {
@@ -400,6 +399,7 @@ div img#third-arrow {
   bottom: 110px;
   transform: rotate(180deg);
   right: 650px;
+  border: 3px solid rgb(179, 114, 114);
 }
 
 
