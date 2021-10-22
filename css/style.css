@@ -34,8 +34,9 @@ nav a {
 }
 
 img#home-page-graphic {
-  padding-left: 350px;
+  padding-left: 500px;
   padding-top: 30px;
+  height: 400px;
 }
 
 img#flower-decoration-one-home-page {
@@ -316,7 +317,89 @@ img#flower-decoration-four-experience {
   border: 1px solid black;
 }
 
-img#experience-content {
+/* img#experience-content {
   padding-left: 350px;
   padding-bottom: 35px;
+  height: 600px;
+} */
+
+div {
+ text-align: center;
 }
+
+div#first-box {
+  border: 3px solid rgb(179, 114, 114);;
+  height: 250px;
+  width: 250px;
+  text-align: center;
+  color: lightslategray;
+  font-weight: bold;
+  font-size: 14px;
+  position: absolute;
+  left: 90px;
+  top: 100px;
+}
+
+div#second-box {
+  border: 3px solid rgb(179, 114, 114);;
+  height: 250px;
+  width: 250px;
+  text-align: center;
+  color: lightslategray;
+  font-weight: bold;
+  font-size: 14px;
+  position: absolute;
+  left: 800px;
+  top: 100px;
+}
+
+div#third-box {
+  border: 3px solid rgb(179, 114, 114);;
+  height: 250px;
+  width: 250px;
+  text-align: center;
+  color: lightslategray;
+  font-weight: bold;
+  font-size: 14px;
+  position: absolute;
+  bottom: 60px;
+  left: 900px;
+}
+
+div#fourth-box {
+  border: 3px solid rgb(179, 114, 114);;
+  height: 250px;
+  width: 250px;
+  text-align: center;
+  color: lightslategray;
+  font-weight: bold;
+  font-size: 14px;
+  position: absolute;
+  left: 200px;
+  bottom: 60px;
+}
+
+div img#first-arrow {
+ position: absolute;
+ width: 200px;
+ left: 450px;
+ top: 170px;
+}
+
+div img#second-arrow {
+  position: absolute;
+  width: 200px;
+  top: 180px;
+  left: 1170px;
+  transform: rotate(115deg);
+}
+
+div img#third-arrow {
+  position: absolute;
+  width: 200px;
+  bottom: 110px;
+  transform: rotate(180deg);
+  right: 650px;
+}
+
+
